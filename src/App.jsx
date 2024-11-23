@@ -2,7 +2,7 @@ import React from "react";
 import { ThemeProvider } from "@mui/material";
 import { createTheme } from "@mui/material/styles";
 import { TYPOGRAPHIES } from "./components/globalStyles";
-import MainLanding from "./components/mainLanding";
+import MainLanding from "./components/MainLanding";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Privacy from "./pages/Privacy";
