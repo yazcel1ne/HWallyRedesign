@@ -1,7 +1,7 @@
 import React from "react";
 import { Box } from "@mui/material";
 import HeroSection from "./HeroSection";
-import Features from "./features";
+import Features from "./Features";
 import Upcoming from "./Upcoming";
 import Download from "./Download";
 import Brighten from "./Brighten";
